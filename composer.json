@@ -1,17 +1,14 @@
 {
-  "name": "viaaurea/swiftmailer-legacy",
+  "name": "ntidev/swiftmailer-legacy",
   "type": "library",
-  "description": "Legacy port of Swiftmailer, free feature-rich PHP mailer",
+  "description": "Legacy port of Swiftmailer, free feature-rich PHP mailer compatible with 8.0 or higher",
   "keywords": ["mail", "mailer", "email"],
   "homepage": "https://swiftmailer.symfony.com",
   "license": "MIT",
   "authors": [
     {
-      "name": "Chris Corbyn"
-    },
-    {
-      "name": "Fabien Potencier",
-      "email": "fabien@symfony.com"
+      "name": "Angel M. Bencosme",
+      "email": "abencosme@syneteksolutions.com"
     }
   ],
   "require": {
